@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DbContextCoreEFCore/.vs/DbContextCoreEFCore/FileContentIndex/27f2949b-cc4d-4eaf-b202-7c5edcd1e753.vsidx
+/DbContextCoreEFCore/.vs/DbContextCoreEFCore/FileContentIndex/c7d95362-19a4-4627-bbad-3f93fe12a3d0.vsidx
+/DbContextCoreEFCore/.vs/DbContextCoreEFCore/FileContentIndex/ed983224-581c-4452-a6a8-a649126e8603.vsidx
